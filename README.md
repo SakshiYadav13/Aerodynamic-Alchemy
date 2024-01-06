@@ -1,1 +1,8 @@
-![image](https://github.com/SakshiYadav13/Aerodynamic-Alchemy/assets/88963135/912766f8-d83a-48e5-b287-1e11bf783aa7)
+## Objectives
+1.	Increase occupancy rate: By raising the average profit per seat and boosting occupancy, we can lessen the effects of the difficulties we are now facing.
+
+2.	Improve pricing strategy: In order to draw in and keep consumers, we must devise a price plan that takes into consideration the shifting market dynamics and consumer preferences.
+
+3.	Enhance customer experience: In order to stand out in a very competitive market and win over more repeat business, we must concentrate on giving our clients a smooth and convenient experience from booking to arrival.
+The ultimate purpose of this assignment is to find ways to boost the occupancy rate on underperforming flights, which can ultimately result in higher airline profitability.
+
