@@ -1,3 +1,5 @@
+![image](https://github.com/SakshiYadav13/Aerodynamic-Alchemy/assets/88963135/c2aaadb6-bcd1-45e4-8e53-f7aeb4fe5ea0)
+
 ## Objectives
 1.	Increase occupancy rate: By raising the average profit per seat and boosting occupancy, we can lessen the effects of the difficulties we are now facing.
 
